@@ -52,10 +52,10 @@ The dashboard includes:
 
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/dashboard.png)
 
 🔗 **Download Power BI File:**  
-[Click here to download the Power BI Dashboard](DataJobsDashboard.pbix)
+[Click here to download the Power BI Dashboard](DASHBOARD-1.pbix)
 
 ---
 
